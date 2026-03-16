@@ -1,0 +1,5252 @@
+[
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  }
+]
