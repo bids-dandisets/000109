@@ -1,40 +1,40 @@
-participant_id	species	sex
-sub-642843699	Homo Sapiens	M
-sub-648220984	Homo Sapiens	M
-sub-651940947	Homo Sapiens	M
-sub-653027578	Homo Sapiens	F
-sub-653718968	Homo Sapiens	M
-sub-660473566	Homo Sapiens	M
-sub-672118436	Homo Sapiens	F
-sub-672637567	Homo Sapiens	M
-sub-674562997	Homo Sapiens	F
-sub-676285262	Homo Sapiens	F
-sub-676839274	Homo Sapiens	F
-sub-685740095	Homo Sapiens	F
-sub-689168779	Homo Sapiens	M
-sub-695464588	Homo Sapiens	M
-sub-700619648	Homo Sapiens	M
-sub-707724503	Homo Sapiens	F
-sub-712700908	Homo Sapiens	F
-sub-717026464	Homo Sapiens	M
-sub-720619787	Homo Sapiens	F
-sub-731978186	Homo Sapiens	M
-sub-736890023	Homo Sapiens	M
-sub-737373545	Homo Sapiens	M
-sub-750786644	Homo Sapiens	F
-sub-758233315	Homo Sapiens	M
-sub-760110174	Homo Sapiens	F
-sub-766758349	Homo Sapiens	M
-sub-767377358	Homo Sapiens	F
-sub-768678784	Homo Sapiens	M
-sub-770227957	Homo Sapiens	M
-sub-774230643	Homo Sapiens	M
-sub-783453365	Homo Sapiens	M
-sub-786359945	Homo Sapiens	M
-sub-793165711	Homo Sapiens	M
-sub-797676582	Homo Sapiens	M
-sub-805678822	Homo Sapiens	M
-sub-811677083	Homo Sapiens	M
-sub-813481439	Homo Sapiens	M
-sub-832340431	Homo Sapiens	M
-sub-849052252	Homo Sapiens	F
+participant_id	original_participant_id	species	sex
+sub-642843699	sub-642843699	Homo Sapiens	M
+sub-648220984	sub-648220984	Homo Sapiens	M
+sub-651940947	sub-651940947	Homo Sapiens	M
+sub-653027578	sub-653027578	Homo Sapiens	F
+sub-653718968	sub-653718968	Homo Sapiens	M
+sub-660473566	sub-660473566	Homo Sapiens	M
+sub-672118436	sub-672118436	Homo Sapiens	F
+sub-672637567	sub-672637567	Homo Sapiens	M
+sub-674562997	sub-674562997	Homo Sapiens	F
+sub-676285262	sub-676285262	Homo Sapiens	F
+sub-676839274	sub-676839274	Homo Sapiens	F
+sub-685740095	sub-685740095	Homo Sapiens	F
+sub-689168779	sub-689168779	Homo Sapiens	M
+sub-695464588	sub-695464588	Homo Sapiens	M
+sub-700619648	sub-700619648	Homo Sapiens	M
+sub-707724503	sub-707724503	Homo Sapiens	F
+sub-712700908	sub-712700908	Homo Sapiens	F
+sub-717026464	sub-717026464	Homo Sapiens	M
+sub-720619787	sub-720619787	Homo Sapiens	F
+sub-731978186	sub-731978186	Homo Sapiens	M
+sub-736890023	sub-736890023	Homo Sapiens	M
+sub-737373545	sub-737373545	Homo Sapiens	M
+sub-750786644	sub-750786644	Homo Sapiens	F
+sub-758233315	sub-758233315	Homo Sapiens	M
+sub-760110174	sub-760110174	Homo Sapiens	F
+sub-766758349	sub-766758349	Homo Sapiens	M
+sub-767377358	sub-767377358	Homo Sapiens	F
+sub-768678784	sub-768678784	Homo Sapiens	M
+sub-770227957	sub-770227957	Homo Sapiens	M
+sub-774230643	sub-774230643	Homo Sapiens	M
+sub-783453365	sub-783453365	Homo Sapiens	M
+sub-786359945	sub-786359945	Homo Sapiens	M
+sub-793165711	sub-793165711	Homo Sapiens	M
+sub-797676582	sub-797676582	Homo Sapiens	M
+sub-805678822	sub-805678822	Homo Sapiens	M
+sub-811677083	sub-811677083	Homo Sapiens	M
+sub-813481439	sub-813481439	Homo Sapiens	M
+sub-832340431	sub-832340431	Homo Sapiens	M
+sub-849052252	sub-849052252	Homo Sapiens	F
