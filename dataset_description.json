@@ -4,7 +4,10 @@
     "HEDVersion": "8.3.0",
     "Description": "Whole-cell Patch-seq recordings from neurons of the human neocortex from the Allen Institute for Brain Science, released in June 2021.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Chartrand, Thomas",
+        "Kalmbach, Brian"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
